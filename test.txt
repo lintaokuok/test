@@ -1,1 +1,2 @@
-git do something
+git do somethng
+my name is godlin
